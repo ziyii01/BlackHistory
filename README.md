@@ -1,2 +1,2 @@
-# BlackHistory
+# BlackHistory （注：是黑历史不是黑人历史）
 收集各位群友的黑历史的公共仓库，欢迎拉取pr投稿。
